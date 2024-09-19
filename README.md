@@ -1,5 +1,7 @@
 Olá, Me chamo Alexandre do. M Ferreira, Sou programador Web!
 
+##
+
 Sou um jovem entusiasta de 23 anos apaixonado pela tecnologia e pela criação de software. Minha jornada nesse mundo fascinante começou na infância, quando iniciei um curso de informática. Desde então, meu interesse na programação só cresceu, levando-me a seguir uma carreira acadêmica em Ciência da Computação na Universidade do Extremo Sul Catarinense (UNESC). Atualmente estudo desenvolvimento web.
 
 <div style="display: inline_block"><br>
