@@ -1,6 +1,6 @@
-## Olá, Me chamo Alexandre do M. Ferreira, Sou programador web!
+## Olá, Me chamo Alexandre do M. Ferreira, Sou programador Full Stack!
 
-Neste repositório, você encontrará projetos que eu mesmo desenvolvi utilizando diversas tecnologias. Estou sempre em busca de aprender e aprimorar minhas habilidades. Sinta-se à vontade para explorar e acompanhar um pouco do conhecimento que adquiri ao longo dos meus estudos.
+Neste repositório, você encontrará projetos que eu mesmo desenvolvi utilizando diversas tecnologias. No momento, sou programador front-end e estou estudando para me tornar um programador full stack. Estou sempre em busca de aprender e aprimorar minhas habilidades. Sinta-se à vontade para explorar e acompanhar um pouco do conhecimento que adquiri ao longo dos meus estudos.
 
   ##
 
